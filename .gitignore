@@ -3,3 +3,4 @@
 
 #ignore log files
 *.log
+*.a
