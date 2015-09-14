@@ -10,5 +10,3 @@ Sample website with plenty of files for demos
 
 * git local
 * git staging
-
-testing
