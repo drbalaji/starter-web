@@ -12,10 +12,14 @@ Sample website with plenty of files for demos
 * git staging
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 hello
 hello again
 
 we created a few branches
+=======
+testing
+>>>>>>> 6791227... testing
 =======
 testing
 >>>>>>> 6791227... testing
