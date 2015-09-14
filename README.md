@@ -9,3 +9,4 @@ Sample website with plenty of files for demos
 ### testing diff areas of git
 
 * git local
+* git staging
